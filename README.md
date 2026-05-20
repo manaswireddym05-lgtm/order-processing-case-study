@@ -34,3 +34,12 @@ python main.py
 * **[`main.py`](./main.py):** The core Python script containing the source code, custom exception class (`InvalidOrderError`), and the order processing pipeline.
 * 
 ```
+
+##👤 authors
+
+M.Sai Manaswi
+K.Sharanya Reddy
+R.Nitya Nandini
+
+
+
