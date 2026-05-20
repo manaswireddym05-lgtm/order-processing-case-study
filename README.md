@@ -25,4 +25,6 @@ In real-world applications, data received from external sources (like CSV files,
 4. **Execute Driver Pipeline:** Loop through the sample dataset inside a robust `try-except` block to generate the final execution log.
 
 
-
+## 📂 Files Included
+* **[`main.py`](./main.py):** The core Python script containing the source code, custom exception class (`InvalidOrderError`), and the order processing pipeline.
+* 
