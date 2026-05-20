@@ -24,7 +24,13 @@ In real-world applications, data received from external sources (like CSV files,
    * Catch `ValueError` or structural issues and raise `InvalidOrderError`.
 4. **Execute Driver Pipeline:** Loop through the sample dataset inside a robust `try-except` block to generate the final execution log.
 
+## 💻 Execution
 
-## 📂 Files Included
+To run the order processing verification system locally, execute the script via your terminal:
+
+```bash
+python main.py
+
 * **[`main.py`](./main.py):** The core Python script containing the source code, custom exception class (`InvalidOrderError`), and the order processing pipeline.
 * 
+```
